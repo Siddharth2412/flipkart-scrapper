@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from tkinter import messagebox
 import requests
 import datetime
-import time
 import csv
 
 def get_txt(data):
